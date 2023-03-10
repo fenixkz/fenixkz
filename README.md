@@ -3,16 +3,18 @@ I'm a robotics engineer who is passionate about robotics, control, and AI. I hav
 
 ## What I'm currently working on
 Investigating the use of various techniques (including machine learning) for object recognition and tracking using tactile sensing in robotics applications
+
 Contributing to open-source robotics projects
 ## How to reach me
 Email: mazhitovayan@gmail.com
+
 LinkedIn: [Ayan Mazhitov](https://www.linkedin.com/in/ayan-mazhitov-136b0a153/)
 ## My skills and areas of expertise
-Robotics: Kinematics, Dynamics, Control, Perception, Navigation
-Control Systems: Classical control, Modern control, Nonlinear control
-Artificial Intelligence: Machine Learning, Deep Learning, Reinforcement Learning
-Programming Languages: Python, C++, MATLAB
-Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP
+- Robotics: Kinematics, Dynamics, Control, Perception, Navigation
+- Control Systems: Classical control, Modern control, Nonlinear control
+- Artificial Intelligence: Machine Learning, Deep Learning, Reinforcement Learning, PDDL, Description Logic (Protege)
+- Programming Languages: Python, C++, MATLAB
+- Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP
 ## My projects
 - [Snake robot](https://github.com/fenixkz/ros_snake_robot): Simulated planar (2D) robot in Gazebo. Also incorporates control based on position/effort controllers with tuned PIDs, and MoveIt.
 - [Recursive Newton-Euler algorithm](https://github.com/fenixkz/recursive-newton-euler-dynamics): MATLAB based implementation of recursive Newton-Euler algorithm for robot's dynamics. Also provides several examples.
