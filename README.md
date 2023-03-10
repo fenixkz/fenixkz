@@ -18,7 +18,7 @@ Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP
 - [Recursive Newton-Euler algorithm](https://github.com/fenixkz/recursive-newton-euler-dynamics): MATLAB based implementation of recursive Newton-Euler algorithm for robot's dynamics. Also provides several examples.
 - [icub_gazebo_sensitivity](https://github.com/fenixkz/icub_gazebo_sensitivity): Force control for the index finger of ICub humanoid robot for tactile exploration purposes within YARP framework. 
 - [Cartpole Deep Q-Network based solution](https://github.com/fenixkz/cartpole_dqn): An implementation of Deep Q-Network reinforcement learning algorithm tested on OpenAI Gym's Cartpole problem. 
-My publications
+## My publications
 - [Human–robot handover with prior-to-pass soft/rigid object classification via tactile glove](https://www.sciencedirect.com/science/article/pii/S0921889022002007): Human–robot handovers constitute a challenging and fundamental aspect of physical human–robot interaction. This paper describes the design and implementation of a human–robot handover pipeline in the case in which both soft and rigid objects are passed by the human to the robot.
 - [Deformable object recognition using proprioceptive and exteroceptive tactile sensing]([link to publication 2](https://ieeexplore.ieee.org/abstract/document/8700392)): The somatosensory sense is a combination of several perception systems. It plays an important role in the exploration and recognition of the environment. In this work, we show how proprioceptive (internal) and exteroceptive (external) sensing can help to distinguish deformable and rigid objects
 ## My hobbies
