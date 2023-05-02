@@ -17,9 +17,14 @@ LinkedIn: [Ayan Mazhitov](https://www.linkedin.com/in/ayan-mazhitov-136b0a153/)
 - Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP
 ## My projects
 - [Snake robot](https://github.com/fenixkz/ros_snake_robot): Simulated planar (2D) robot in Gazebo. Also incorporates control based on position/effort controllers with tuned PIDs, and MoveIt.
+- [Cartpole Deep Q-Network based solution](https://github.com/fenixkz/cartpole_dqn): An implementation of Deep Q-Network reinforcement learning algorithm tested on OpenAI Gym's Cartpole problem. 
 - [Recursive Newton-Euler algorithm](https://github.com/fenixkz/recursive-newton-euler-dynamics): MATLAB based implementation of recursive Newton-Euler algorithm for robot's dynamics. Also provides several examples.
 - [icub_gazebo_sensitivity](https://github.com/fenixkz/icub_gazebo_sensitivity): Force control for the index finger of ICub humanoid robot for tactile exploration purposes within YARP framework. 
-- [Cartpole Deep Q-Network based solution](https://github.com/fenixkz/cartpole_dqn): An implementation of Deep Q-Network reinforcement learning algorithm tested on OpenAI Gym's Cartpole problem. 
+- [Franka Emika robot's Cartesian control](https://github.com/fenixkz/franka_cartesian_control): ROS-based controller to control the robot in Cartesian space
+- [Autonomous or manually controlled mobile robot](https://github.com/fenixkz/final_assignment/tree/noetic): this project features a Gazebo simulation of a mobile robot with a user interface that enables users to autonomously navigate the robot to specific coordinates, manually control the robot using the keyboard, or drive the robot while receiving collision avoidance assistance.
+- [Mobile robot with RGB camera to inspect the environment](https://github.com/fenixkz/exprob_second_assignment): this project presents a Gazebo simulation of a mobile robot that employs an RGB camera for indoor environment inspection, the robot's behavior is controlled by a State Machine created using the SMACH library.
+- [Autonomous mobile robot](https://github.com/fenixkz/rt_assigment2): this project is a ROS-Stage based simulation of an autonomous mobile robot successfully completing a circular path without colliding into walls.
+
 ## My publications
 - [Human–robot handover with prior-to-pass soft/rigid object classification via tactile glove](https://www.sciencedirect.com/science/article/pii/S0921889022002007): Human–robot handovers constitute a challenging and fundamental aspect of physical human–robot interaction. This paper describes the design and implementation of a human–robot handover pipeline in the case in which both soft and rigid objects are passed by the human to the robot.
 - [Deformable object recognition using proprioceptive and exteroceptive tactile sensing](https://ieeexplore.ieee.org/abstract/document/8700392): The somatosensory sense is a combination of several perception systems. It plays an important role in the exploration and recognition of the environment. In this work, we show how proprioceptive (internal) and exteroceptive (external) sensing can help to distinguish deformable and rigid objects
