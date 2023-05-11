@@ -14,7 +14,7 @@ LinkedIn: [Ayan Mazhitov](https://www.linkedin.com/in/ayan-mazhitov-136b0a153/)
 - Control Systems: Classical control, Modern control, Nonlinear control
 - Artificial Intelligence: Machine Learning, Deep Learning, Reinforcement Learning, PDDL, Description Logic (Protege)
 - Programming Languages: Python, C++, MATLAB
-- Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP, Python's [sklearn, matplotlib, pandas, numpy, seaborn]
+- Tools and Frameworks: ROS, PyTorch, Gazebo, Simulink, Git, YARP, Python's sklearn, matplotlib, pandas, numpy, seaborn
 ## My projects
 - [Snake robot](https://github.com/fenixkz/ros_snake_robot): Simulated planar (2D) robot in Gazebo. Also incorporates control based on position/effort controllers with tuned PIDs, and MoveIt.
 - [Cartpole Deep Q-Network based solution](https://github.com/fenixkz/cartpole_dqn): An implementation of Deep Q-Network reinforcement learning algorithm tested on OpenAI Gym's Cartpole problem. 
