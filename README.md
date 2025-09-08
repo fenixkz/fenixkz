@@ -2,7 +2,7 @@
 I'm a robotics engineer who is passionate about robotics, control, and AI. I have experience working with various robotic systems, including manipulators, mobile robots, and humanoid robots. I'm also interested in the intersection of robotics and AI, and how we can leverage machine learning algorithms to enable robots to perceive and interact with their environment.
 
 ## What I'm currently working on
-Investigating the use of various techniques (including machine learning) for object recognition and tracking using tactile sensing in robotics applications
+Investigating the use of various techniques (Diffusion Models, VLA) for object recognition and tracking using tactile sensing in robotics applications
 
 Contributing to open-source robotics projects
 ## How to reach me
