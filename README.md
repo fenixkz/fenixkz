@@ -18,10 +18,13 @@ LinkedIn: [Ayan Mazhitov](https://www.linkedin.com/in/ayan-mazhitov-136b0a153/)
 - Python: sklearn, matplotlib, pandas, numpy, seaborn, FastAPI
 
 ## My projects
+- [Cubic ASRS Simulation](https://github.com/fenixkz/automated_warehouse): A full simulation of ASRS system designed for E-Commerce projects. Handles multiple robots. 
+- [Intro to RL](https://github.com/fenixkz/rl_journey): Contains own written series of lessons to serve as strong introduction to RL. Explores variety of topics from black-box optimizers to SoTA algorithms like PPO and SAC.
+- [RAG-based chat bot for Kazakhstani Housing Law questions](https://github.com/fenixkz/kz_lawbot): A telegram hosted chat bot based on Saiga-Nemo russian speaking LLM for questions related to Kazakhstani Housing laws.
+- [Mini-Dostoyevskiy](https://github.com/fenixkz/mini_dostoyevskiy): A fully written from scratch decoder only transformer (GPT) trained on Dostoyevskiy books to mimic his style.
 - [Snake robot](https://github.com/fenixkz/ros_snake_robot): Simulated planar (2D) robot in Gazebo. Also incorporates control based on position/effort controllers with tuned PIDs, and MoveIt.
-- [Cartpole Deep Q-Network based solution](https://github.com/fenixkz/cartpole_dqn): An implementation of Deep Q-Network reinforcement learning algorithm tested on OpenAI Gym's Cartpole problem. 
-- [Recursive Newton-Euler algorithm](https://github.com/fenixkz/recursive-newton-euler-dynamics): MATLAB based implementation of recursive Newton-Euler algorithm for robot's dynamics. Also provides several examples.
-- [icub_gazebo_sensitivity](https://github.com/fenixkz/icub_gazebo_sensitivity): Force control for the index finger of ICub humanoid robot for tactile exploration purposes within YARP framework. 
+- [Recursive Newton-Euler algorithm](https://github.com/fenixkz/recursive-newton-euler-dynamics): MATLAB based implementation of recursive Newton-Euler algorithm for robot's dynamics.
+- [ICub_Gazebo based Force Control](https://github.com/fenixkz/icub_gazebo_sensitivity): Force control for the index finger of ICub humanoid robot for tactile exploration purposes within YARP framework. 
 - [Franka Emika robot's Cartesian control](https://github.com/fenixkz/franka_cartesian_control): ROS-based controller to control the robot in Cartesian space
 - [Autonomous or manually controlled mobile robot](https://github.com/fenixkz/final_assignment/tree/noetic): This project features a Gazebo simulation of a mobile robot with a user interface that enables users to autonomously navigate the robot to specific coordinates, manually control the robot using the keyboard, or drive the robot while receiving collision avoidance assistance.
 - [Mobile robot with RGB camera to inspect the environment](https://github.com/fenixkz/exprob_second_assignment): This project presents a Gazebo simulation of a mobile robot that employs an RGB camera for indoor environment inspection, the robot's behavior is controlled by a State Machine created using the SMACH library.
